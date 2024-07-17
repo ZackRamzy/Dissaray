@@ -17,7 +17,8 @@
 ---
 
   ### Screenshots 📖 :
-![изображение](https://github.com/user-attachments/assets/05ece91e-27b5-4ef8-9afa-8752027615c7)
+![изображение](https://github.com/user-attachments/assets/0a26a7e3-f4af-4f86-b8a5-08e4d002d786)
+
 ![изображение](https://github.com/user-attachments/assets/aeb62877-fd4f-44dc-b23f-6a698d041989)
 
 
